@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="34px" height="34px">
+    <!-- Circular background -->
+    <circle cx="50" cy="50" r="50" fill="white"/>
+
+    <!-- Inner SVG icon with padding and centered -->
+    <svg x="15" y="15" width="70" height="70" viewBox="0 -960 960 960" fill="black">
+        <path d="M560-220v-520h150v520H560Zm-310 0v-520h150v520H250Z"/>
+    </svg>
+</svg>
+
